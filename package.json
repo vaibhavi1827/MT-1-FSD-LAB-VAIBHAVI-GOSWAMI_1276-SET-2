@@ -1,0 +1,24 @@
+{
+  "name": "mt-1-fsd-lab-vaibhavi-goswami_1276-set-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavi1827/MT-1-FSD-LAB-VAIBHAVI-GOSWAMI_1276-SET-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vaibhavi1827/MT-1-FSD-LAB-VAIBHAVI-GOSWAMI_1276-SET-2/issues"
+  },
+  "homepage": "https://github.com/vaibhavi1827/MT-1-FSD-LAB-VAIBHAVI-GOSWAMI_1276-SET-2#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
